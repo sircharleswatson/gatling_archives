@@ -3,6 +3,12 @@
 These are the archives of the Gatling Project.
 For more information, see [Gatling](https://github.com/hashrocket/gatling)
 
+To install the current default version (__0.1.0__)
+
+```
+mix archive.install https://github.com/hashrocket/gatling_archives/raw/master/gatling.ez
+```
+
 ### About
 
 [![Hashrocket logo](https://hashrocket.com/hashrocket_logo.svg)](https://hashrocket.com)
